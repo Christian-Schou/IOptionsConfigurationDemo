@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NSwag.AspNetCore" Version="13.16.0" />
+    <PackageReference Include="NSwag.Generation" Version="13.16.0" />
+    <PackageReference Include="NSwag.Generation.AspNetCore" Version="13.16.0" />
+  </ItemGroup>
+
+</Project>

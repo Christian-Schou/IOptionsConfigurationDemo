@@ -1,0 +1,14 @@
+{
+  "SwaggerSettings": {
+    "Enable": true,
+    "Title": "IOptions Demo PROD",
+    "Version": "v1",
+    "Description": "A demo of how you can use IOptions to bind value of properties to strongly types classes in .NET",
+    "ContactName": "Christian Schou",
+    "ContactEmail": "chsc@christian-schou.dk",
+    "ContactUrl": "https://christian-schou.dk",
+    "License": true,
+    "LicenseName": "MIT License",
+    "LicenseUrl": "https://christian-schou.dk"
+  }
+}
